@@ -51,10 +51,6 @@ CREATE TABLE payments ( payment_id INT PRIMARY KEY, order_id INT, payment_mode V
 
 CREATE TABLE deliveries ( delivery_id INT PRIMARY KEY, order_id INT, delivery_partner VARCHAR(50), delivery_status VARCHAR(30), delivery_city VARCHAR(50), CONSTRAINT fk_deliveries_order FOREIGN KEY (order_id) REFERENCES orders(order_id) );
 
-show tables;
-
-show table status;
-
 INSERT INTO customers VALUES
 (1, 'Ravi Kumar', 'Hyderabad', 'Telangana', 'Male', 'Gold'),
 (2, 'Priya Sharma', 'Chennai', 'Tamil Nadu', 'Female', 'Silver'),
