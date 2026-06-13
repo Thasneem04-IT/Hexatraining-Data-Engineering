@@ -1,5 +1,5 @@
 # Capstone 1 & 2 
-# PySpark Functions Used in Telecom Customer Usage & Billing Analytics Project
+# PySpark Functions Used 
 
 ## Data Ingestion Functions
 
