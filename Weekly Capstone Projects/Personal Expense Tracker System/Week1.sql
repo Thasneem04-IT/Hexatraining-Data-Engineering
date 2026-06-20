@@ -119,11 +119,13 @@ DELIMITER ;
 
 CALL MonthlyCategoryExpense(6, 2026);
 
-SHOW TABLES;
+
 
 
 SELECT COUNT(*) FROM users;
+
 SELECT COUNT(*) FROM categories;
+
 SELECT COUNT(*) FROM expenses;
 
 
