@@ -1,0 +1,12 @@
+user_id,date,category,amount
+1,2026-06-01,Food,250
+1,2026-06-02,Transport,100
+1,2026-06-05,Shopping,1500
+2,2026-06-03,Food,350
+2,2026-06-04,Bills,2500
+3,2026-06-06,Transport,200
+3,2026-06-07,Entertainment,800
+4,2026-06-08,Healthcare,1200
+4,2026-06-09,Food,400
+5,2026-06-10,Shopping,3000
+5,2026-06-11,Bills,1800
