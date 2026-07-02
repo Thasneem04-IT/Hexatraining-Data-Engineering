@@ -1,0 +1,4 @@
+device_id,device_name,date,total_energy
+101,AC,2026-06-02,11.5
+101,AC,2026-06-05,10.5
+104,Refrigerator,2026-06-03,10.600000000000001
